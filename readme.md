@@ -4,6 +4,9 @@ LexAI Chat is a modern, lightweight **AI chatbot web application** built using *
 It features a clean floating chat interface, emoji support, file uploads, and real-time AI responses — all running on the frontend.
 
 ---
+<p align="center">
+<img width="921" height="672" alt="Screenshot 2026-02-09 204405" src="https://github.com/user-attachments/assets/11212c1f-ad23-4c22-942e-c4967e57dbab" />
+</p>
 
 ## ✨ Features
 
